@@ -1,0 +1,6 @@
+[submodule "include/sylo"]
+	path = include/sylo
+	url = https://github.com/SamuelNoesslboeck/sylo.git
+[submodule "include/cosy"]
+	path = include/cosy
+	url = https://github.com/sy-workshop/cosy
