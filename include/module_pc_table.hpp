@@ -39,7 +39,7 @@ namespace pc_table {
     }
 
     float get_temp() {
-        return dht.getTemperature() - TEMP_CORRECTION;
+        return dht.getTemperature() + TEMP_CORRECTION;
     }
 
     float get_humid() {
