@@ -6,4 +6,7 @@
 .vscode/ipch
 
 # Credentials
-include/private
+include/private/wifi_creds.hpp
+
+# KiCad
+*-backups
